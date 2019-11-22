@@ -1,0 +1,2 @@
+I changed the findJudge method to a static method, because I want to simply print out the output and to check if the programm is running properly.
+If you do have a test code that requires non-static method, please help me to change it back just by deleting "static" in "Judge.java". Thank you.
